@@ -7,3 +7,7 @@ GetSomePopcorn| React, JavaScript, HTML , CSS
 
 • It makes it much easier for a user to choose a movie based on a specific genre, as well as tells about the popularity of
 each film and provides movie ratings.
+
+
+https://user-images.githubusercontent.com/97463274/212894015-e75d4e55-0224-406a-8b36-5148de824a1d.mp4
+
