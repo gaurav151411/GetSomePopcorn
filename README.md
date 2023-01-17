@@ -1,4 +1,4 @@
-GetSomePopcorn| React, JavaScript, HTML , CSS October 2022
+GetSomePopcorn| React, JavaScript, HTML , CSS 
 
 
 • Developed a Movie App that allows users to search for new and upcoming movies from around the world.
