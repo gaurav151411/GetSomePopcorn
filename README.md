@@ -8,6 +8,8 @@ GetSomePopcorn| React, JavaScript, HTML , CSS
 • It makes it much easier for a user to choose a movie based on a specific genre, as well as tells about the popularity of
 each film and provides movie ratings.
 
+. The Project has been made using Hooks in React.
+
 
 
 
